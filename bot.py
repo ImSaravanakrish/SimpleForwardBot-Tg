@@ -44,7 +44,6 @@ class Bot(Client):
     async def start(self):
         await super().start()
         me = await self.get_me()
-    
         app = web.AppRunner(await web_server())
         await app.setup()
         bind_address = "0.0.0.0"
