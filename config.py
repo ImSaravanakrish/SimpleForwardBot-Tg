@@ -16,9 +16,9 @@ class Config:
 
     # other configs 
     OWNER_ID = int(os.environ.get("OWNER_ID", "1169076058")) # ⚠️ Required
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "")) # ⚠️ Required
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001700729802")) # ⚠️ Required
     TO_CHANNEL = int(os.environ.get("TO_CHANNEL", "-1001751333376")) # ⚠️ Required
-    FORCE_SUB = os.environ.get('FORCE_SUB', '-1001253253985') # ⚠️ Required
+    FORCE_SUB = os.environ.get('FORCE_SUB', '-1001700729802') # ⚠️ Required
     COLLECTION_NAME = os.environ.get('COLLECTION_NAME', 'Data')
     USERDATA = os.environ.get('USERDATA', 'USER_DATA')
     BOT_UPTIME  = time.time()
