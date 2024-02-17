@@ -30,9 +30,9 @@ You will require the following data to index a channel:-
 After fowarding completes use the /cleardb command to clean your database."""
 
     ABOUT_TXT = """<b>╭───────────⍟
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Snowball_Official>Sɴᴏᴡʙᴀʟʟ</a>
-├👑 Instagram : <a href=https://www.instagram.com/ritesh6_>C-Insta</a> 
-├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/+HzGpLAZXTxoyYTNl>Rᴏᴏғɪᴠᴇʀsᴇ</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/TamilBots>TamilBots</a>
+├👑 Instagram : <a href=https://www.instagram.com/_SaravanKrish_>C-Insta</a> 
+├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/TamilBokHouse>TamilBokHouse</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
