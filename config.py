@@ -25,7 +25,7 @@ class Config:
     AUTH_CHANNEL = int(FORCE_SUB) if FORCE_SUB and id_pattern.search(
     FORCE_SUB) else None 
     BOT_USERNAME = os.environ.get('BOT_USERNAME', "NazriyaFilterBot") # No need if you don't want to auto forward when bot restarted
-    SESSION = os.environ.get('STRING_SESSION', '') # ⚠️ Required 
+    SESSION = os.environ.get('STRING_SESSION', 'BQBoq3SFsURkKqj7mUjsyXwfDIWIbtaMGcrVaAgBNfoQIYV4ZbhyEJEE_cv0RJOjAOGrorgwIUsnUgZn0Kz-SIDg21D2bMhji55Li18omIvSLXxXZv5t7dGoN1ioWWKfdcVyUewvW-0QG-yxZQ6T9JzWNXqyinFM9vZmZoPGsMxgjsc8YBdKpupTfEF30s8H_fjbBqUO5_-38e19X4nk6AeRv3UhYKZ8TUjjVhiKMJZ6VuHfWILpzG1nzGkhh60Stzzo2xoKzeoY_w1AoOPNmSs6b1OOpVg6iw5ardSzs_PGRVSARghVh6bzZz2sf2vKGfANme34r80yCofpuShKs9i9AAAAAY4EawwA') # ⚠️ Required 
 
     # Web Support 
     WEBHOOK = bool(os.environ.get("WEBHOOK", True)) # for web support on/off
