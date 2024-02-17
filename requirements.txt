@@ -7,4 +7,3 @@ motor==2.3.0
 pytz
 asyncio
 aiohttp
-https://github.com/pyrogram/pyrogram/archive/master.zip
